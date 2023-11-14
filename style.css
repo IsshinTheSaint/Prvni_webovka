@@ -1,0 +1,60 @@
+.hlava {
+    display: flex;
+    justify-content: right;
+    text-indent: 20px;
+    background-color: blue;
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+body {
+    margin: 0;
+}
+.tlacitko {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    color: white;
+    margin-top: 20px;
+}
+.text {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    background-size: 30px;
+    
+}
+.text1 {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+
+}
+.text3 {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+
+}
+.chatbox {
+    display: flex;
+    justify-content: center;
+    background-color: blueviolet;
+    color: white;
+}
+p{
+    background-color: blue;
+    padding: 20px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    color: white;
+}
+.paticka {
+    background-color: aqua;
+    color: black;
+    border: 0px solid aqua;
+    border-radius: 0px;
+    color: black;
+}
